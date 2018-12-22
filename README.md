@@ -1,7 +1,7 @@
 # Rapidly-Exploring-Random-Trees-with-Point-and-Line-Robot-
 Implementing RRT planning algorithm in 2D with a point robot (x,y) and a line robot (x,y,theta)
 
-RRT ran with uniform and Gaussian distributing.
+RRT ran with uniform and Gaussian distribution.
 
 point robot: rrt_planner_point_robot.py
 
